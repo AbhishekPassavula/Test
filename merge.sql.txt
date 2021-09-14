@@ -1,0 +1,3 @@
+Merge into <Table_name>
+update set column_name = column_value
+Insert into table select * from emp;
