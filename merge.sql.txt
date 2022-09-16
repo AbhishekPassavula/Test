@@ -1,7 +1,0 @@
-Merge into <Table_name>
-Using()
-On condition
-When  matched 
-update set column_name = column_value
-when not matched
-Insert into table select * from emp;
